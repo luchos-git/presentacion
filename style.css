@@ -26,6 +26,10 @@ div{
     border-radius: 10px;
     box-shadow: 5px 5px 10px rgba(15, 15, 15, 0.648);
 }
+div p{
+    color: #ffffff;
+    font-size: 18px;
+}
 img{
     width: 150px;
     height: 150px;
